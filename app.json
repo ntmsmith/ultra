@@ -4,8 +4,8 @@
     "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
     "repository": "https://github.com/ntmsmith/ultra",
-    "website": "https://Ultra.netlify.app/",
-    "success_url": "https://t.me/TheUltra",
+    "website": "https://ultra.netlify.app/",
+    "success_url": "https://t.me/Theultra",
     "stack": "container",
     "env": {
         "API_ID": {
