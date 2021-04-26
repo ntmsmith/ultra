@@ -19,7 +19,7 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/TeamUltra/Ultra#Deploy-to-Heroku)
+- [Heroku](https://github.com/ntmsmith/Ultra#Deploy-to-Heroku)
 - [Local Machine](https://github.com/TeamUltra/Ultra#Deploy-Locally)
 
 ## Deploy to Heroku
