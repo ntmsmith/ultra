@@ -1,4 +1,4 @@
-FROM ntmsmith/ultra:0.0.3
+FROM ntmsmith/ultra
 RUN git clone https://github.com/ntmsmith/ultra.git /root/ntmsmith/
 WORKDIR /root/ntmsmith/
 RUN pip install -r requirements.txt
