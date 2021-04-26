@@ -2,8 +2,8 @@
 # Ultra - UserBot
 # Copyright (C) 2020 TeamUltra
 #
-# This file is a part of < https://github.com/TeamUltra/Ultra/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltra/Ultra/blob/main/LICENSE/>.
+# This file is a part of < https://github.com/ntmsmith/ultra/ >
+# PLease read the GNU Affero General Public License in <https://www.github.com/ntmsmith/ultra/blob/main/LICENSE/>.
 
 clear
 echo -e "\e[1m"
@@ -26,7 +26,7 @@ apt-get update
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/TeamUltra/Ultra/main/resources/session/ssgen.py
+wget https://raw.githubusercontent.com/ntmsmith/ultra/main/resources/session/ssgen.py
 pip install telethon
 clear
 python3 ssgen.py
