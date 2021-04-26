@@ -15,4 +15,4 @@ echo "
 
 "
  
-python3 -m pyUltra
+python3 -m pyultra
