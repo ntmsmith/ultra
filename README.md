@@ -19,8 +19,8 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/ntmsmith/Ultra#Deploy-to-Heroku)
-- [Local Machine](https://github.com/ntmsmithUltra#Deploy-Locally)
+- [Heroku](https://github.com/ntmsmith/ultra#Deploy-to-Heroku)
+- [Local Machine](https://github.com/ntmsmithultra#Deploy-Locally)
 
 ## Deploy to Heroku
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)    
