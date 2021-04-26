@@ -1,5 +1,5 @@
 {
-    "name": "Ultra UserBot",
+    "name": "ultra UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
     "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
