@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from pyUltra.functions.asst_fns import *
+from pyultra.functions.asst_fns import *
 from telethon import Button, custom, events
 
 from plugins import *
