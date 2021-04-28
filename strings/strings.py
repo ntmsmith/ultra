@@ -3,7 +3,7 @@ from typing import Any, Dict, List, Union
 
 from yaml import safe_load
 
-from pyUltra import udB
+from pyultra import udB
 
 
 languages = {}
