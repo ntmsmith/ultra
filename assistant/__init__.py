@@ -1,7 +1,7 @@
 
-from pyUltra import *
-from pyUltra.dB.database import Var
-from pyUltra.functions.all import *
+from pyultra import *
+from pyultra.dB.database import Var
+from pyultra.functions.all import *
 from telethon import Button, custom
 
 from strings import get_languages, get_string
