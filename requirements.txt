@@ -1,4 +1,4 @@
-py-ultra==2021.4.16
+py-ultra==3.9
 gingerit
 Telethon==1.21.1
 git+https://github.com/buddhhu/search-engine-parser.git
